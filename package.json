@@ -1,0 +1,36 @@
+{
+  "name": "reactivesearch-application",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "jyash97@gmail.com",
+  "main": "src/index.js",
+  "dependencies": {
+    "@appbaseio/reactivemaps": "3.0.0-beta.2",
+    "@appbaseio/reactivesearch": "3.0.2",
+    "ag-grid-community": "21.2.1",
+    "ag-grid-react": "21.2.1",
+    "react": "16.8.6",
+    "react-beautiful-dnd": "11.0.5",
+    "react-country-flag": "1.1.0",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.0.1",
+    "recharts": "1.7.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
